@@ -25,3 +25,9 @@
     **没有试用，只能注册订阅套餐**，我现在看下来觉得最划算的，尤其是有2024newyear的**半价优惠**券，长期套餐是真的很划算。
     
     链接：[地瓜云加速](https://www.dgss28.net/#/register?code=1QNFKfd5)
+
+5. 可乐云
+    
+    使用**一小时1G**，基础版月付套餐是比较划算的9.9元400G。
+    
+    链接：[可乐云](https://www.leluocloud.com/#/register?code=r61kHsaE)
