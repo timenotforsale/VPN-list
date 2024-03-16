@@ -31,3 +31,9 @@
     试用**一小时1G**，基础版月付套餐是比较划算的9.9元400G。
     
     链接：[可乐云](https://www.leluocloud.com/#/register?code=r61kHsaE)
+
+6. EEVPN
+    
+    **轻量级用户的神**！如果接受**每个月15G流量**，它有年付最低价**19.9元**，**年付19.9元**哦！其他的套餐基本和地瓜云加速半价后的价格一致！
+    
+    链接：[EEVPN](https://www.eevpnsafe.com/#/register?code=Lshm2ta4)
