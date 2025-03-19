@@ -30,7 +30,7 @@
     
     试用**一小时1G**，基础版月付套餐是比较划算的9.9元400G。
     
-    链接：[可乐云](https://www.leluocloud.com/#/register?code=r61kHsaE)
+    链接：[可乐云](https://cokecloud.cyou/#/register?code=r61kHsaE)
 
 6. EEVPN
     
