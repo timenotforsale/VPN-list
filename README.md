@@ -25,7 +25,7 @@
     
     试用**一小时1G**，基础版月付套餐是比较划算的300G/9.9元。2025年涨价了，但是在VPN里还是具有性价比的，半年付套餐是最划算的，可以直接买一年**¥77.80**，一个月**200G**，但有连接设备和速度限制。
     
-    链接：[可乐云](https://cokecloud.cyou/#/register?code=r61kHsaE)
+    链接：[可乐云](https://keleyun.buyzur.com/#/register?code=r61kHsaE)
 
 5. 秋林云
 
