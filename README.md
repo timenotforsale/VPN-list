@@ -62,7 +62,7 @@
 
 ## SKTLUMO
 
-- 注册入口：[点击注册（SKTLUMO）](http://163.192.42.74/#/register?code=DtkuCul1)
+- 注册入口：[点击注册（SKTLUMO）](http://138.2.239.53/#/register?code=DtkuCul1)
 
 ### 简评
 
