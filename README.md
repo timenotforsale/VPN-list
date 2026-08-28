@@ -10,7 +10,7 @@
 
 ## CokeCloud
 
-- 注册入口：[点击注册（CokeCloud）](https://47.238.225.31:1000/#/register?code=r61kHsaE)
+- 注册入口：[点击注册（CokeCloud）](https://coke.ih004.com/#/register?code=r61kHsaE)
 
 
 ### 简评
